@@ -27,8 +27,10 @@ public class UiController : MonoBehaviour
     public void startButtonListener()
     {
         GameObject intro = globalCanvas.transform.Find("Intro").gameObject;
-        startButton.gameObject.SetActive(false);
+        GameObject title = globalCanvas.transform.Find("Title").gameObject;
         intro.SetActive(true);
+        startButton.gameObject.SetActive(false);
+        title.SetActive(false);
         
     }
 
