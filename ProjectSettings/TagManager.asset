@@ -8,12 +8,12 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Boots
+  - Interactable_Boots
   - Water
   - UI
-  - 
-  - 
-  - 
+  - Body
+  - Interactable
+  - Grab Ignore Ray
   - 
   - 
   - 
