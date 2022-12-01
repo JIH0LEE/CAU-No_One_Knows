@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 3980669658406338943}
   - component: {fileID: 5458254762794855046}
   - component: {fileID: 6685089737722997036}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: rivet14
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -94,7 +94,7 @@ GameObject:
   - component: {fileID: 4734772100342359734}
   - component: {fileID: 1974812401190141860}
   - component: {fileID: 5662187586801135045}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: conv_tongue
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -144,7 +144,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 4241587701806012333, guid: 35a4fe4d2160f594395872e562ef9fb4, type: 3}
+  - {fileID: 2100000, guid: 99835edf618225c4795ddd2484db201d, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -177,7 +177,7 @@ GameObject:
   - component: {fileID: 5069454147529732281}
   - component: {fileID: 1012355672854889755}
   - component: {fileID: 4774593891510793950}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: rivet10
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -260,7 +260,7 @@ GameObject:
   - component: {fileID: 2600312565780082137}
   - component: {fileID: 1595461073126273745}
   - component: {fileID: 7363262581673546312}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: rivet16
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -343,7 +343,7 @@ GameObject:
   - component: {fileID: 8383279826142521327}
   - component: {fileID: 7213760051200125757}
   - component: {fileID: 1364453935915084077}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: rivet15
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -426,7 +426,7 @@ GameObject:
   - component: {fileID: 66743814483897881}
   - component: {fileID: 2136876442282687554}
   - component: {fileID: 4444443976077038227}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: rivet31
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -509,7 +509,7 @@ GameObject:
   - component: {fileID: 239228668400462984}
   - component: {fileID: 254520249642914361}
   - component: {fileID: 5771899613574553143}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: rivet20
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -592,7 +592,7 @@ GameObject:
   - component: {fileID: 8086230765835344375}
   - component: {fileID: 8711883728904503709}
   - component: {fileID: 8112833857683219774}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: rivet11
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -675,7 +675,7 @@ GameObject:
   - component: {fileID: 6921954159603623694}
   - component: {fileID: 864322157796402258}
   - component: {fileID: 3961038875480875713}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: rivet17
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -758,7 +758,7 @@ GameObject:
   - component: {fileID: 8331355032798519966}
   - component: {fileID: 6090595238927283700}
   - component: {fileID: 4913732454153020676}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: rivet6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -841,7 +841,7 @@ GameObject:
   - component: {fileID: 2871172408692875848}
   - component: {fileID: 7899017089175719855}
   - component: {fileID: 2540828929567292145}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: rivet1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -924,7 +924,7 @@ GameObject:
   - component: {fileID: 4509526367358392378}
   - component: {fileID: 7851762584924127163}
   - component: {fileID: 4989157395442345394}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: rivet32
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1007,7 +1007,7 @@ GameObject:
   - component: {fileID: 5034404423064016868}
   - component: {fileID: 6512242679705348842}
   - component: {fileID: 6950186215150822810}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: rivet30
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1090,7 +1090,7 @@ GameObject:
   - component: {fileID: 8792242337003017685}
   - component: {fileID: 7928523414959044215}
   - component: {fileID: 3951933143878573853}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: rivet22
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1173,7 +1173,7 @@ GameObject:
   - component: {fileID: 5718238370982858897}
   - component: {fileID: 1104776260940779949}
   - component: {fileID: 5906270777250336111}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: converse
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1223,7 +1223,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 4241587701806012333, guid: 35a4fe4d2160f594395872e562ef9fb4, type: 3}
+  - {fileID: 2100000, guid: 99835edf618225c4795ddd2484db201d, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1256,7 +1256,7 @@ GameObject:
   - component: {fileID: 6063895458743573056}
   - component: {fileID: 818789369287148155}
   - component: {fileID: 4165484777138274065}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: rivet23
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1339,7 +1339,7 @@ GameObject:
   - component: {fileID: 5668216806144969229}
   - component: {fileID: 8143529424255286853}
   - component: {fileID: 1994232410413822422}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: rivet28
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1422,7 +1422,7 @@ GameObject:
   - component: {fileID: 8384623895471989459}
   - component: {fileID: 618138136370412722}
   - component: {fileID: 4033074635085057106}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: rivet25
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1505,7 +1505,7 @@ GameObject:
   - component: {fileID: 5539669915958657060}
   - component: {fileID: 8966865950064795327}
   - component: {fileID: 3604429120424778461}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: rivet18
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1586,13 +1586,16 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3550641416443429157}
-  m_Layer: 0
+  - component: {fileID: 543450651638909301}
+  - component: {fileID: 543450651638909300}
+  - component: {fileID: 543450651638909299}
+  m_Layer: 3
   m_Name: converse_fbx
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &3550641416443429157
 Transform:
   m_ObjectHideFlags: 0
@@ -1600,7 +1603,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4183203187887889311}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -9.620115, y: 0.23514009, z: 5.6492057}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -1609,6 +1612,150 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!54 &543450651638909301
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4183203187887889311}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!114 &543450651638909300
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4183203187887889311}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad34abafad169848a38072baa96cdb2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_InteractionManager: {fileID: 0}
+  m_Colliders: []
+  m_InteractionLayerMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_InteractionLayers:
+    m_Bits: 1
+  m_SelectMode: 0
+  m_CustomReticle: {fileID: 0}
+  m_FirstHoverEntered:
+    m_PersistentCalls:
+      m_Calls: []
+  m_LastHoverExited:
+    m_PersistentCalls:
+      m_Calls: []
+  m_HoverEntered:
+    m_PersistentCalls:
+      m_Calls: []
+  m_HoverExited:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FirstSelectEntered:
+    m_PersistentCalls:
+      m_Calls: []
+  m_LastSelectExited:
+    m_PersistentCalls:
+      m_Calls: []
+  m_SelectEntered:
+    m_PersistentCalls:
+      m_Calls: []
+  m_SelectExited:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Activated:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Deactivated:
+    m_PersistentCalls:
+      m_Calls: []
+  m_OnFirstHoverEntered:
+    m_PersistentCalls:
+      m_Calls: []
+  m_OnLastHoverExited:
+    m_PersistentCalls:
+      m_Calls: []
+  m_OnHoverEntered:
+    m_PersistentCalls:
+      m_Calls: []
+  m_OnHoverExited:
+    m_PersistentCalls:
+      m_Calls: []
+  m_OnSelectEntered:
+    m_PersistentCalls:
+      m_Calls: []
+  m_OnSelectExited:
+    m_PersistentCalls:
+      m_Calls: []
+  m_OnSelectCanceled:
+    m_PersistentCalls:
+      m_Calls: []
+  m_OnActivate:
+    m_PersistentCalls:
+      m_Calls: []
+  m_OnDeactivate:
+    m_PersistentCalls:
+      m_Calls: []
+  m_AttachTransform: {fileID: 0}
+  m_AttachEaseInTime: 0.15
+  m_MovementType: 2
+  m_VelocityDamping: 1
+  m_VelocityScale: 1
+  m_AngularVelocityDamping: 1
+  m_AngularVelocityScale: 1
+  m_TrackPosition: 1
+  m_SmoothPosition: 0
+  m_SmoothPositionAmount: 5
+  m_TightenPosition: 0.5
+  m_TrackRotation: 1
+  m_SmoothRotation: 0
+  m_SmoothRotationAmount: 5
+  m_TightenRotation: 0.5
+  m_ThrowOnDetach: 1
+  m_ThrowSmoothingDuration: 0.25
+  m_ThrowSmoothingCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  m_ThrowVelocityScale: 1.5
+  m_ThrowAngularVelocityScale: 1
+  m_ForceGravityOnDetach: 0
+  m_RetainTransformParent: 1
+  m_AttachPointCompatibilityMode: 0
+--- !u!65 &543450651638909299
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4183203187887889311}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.22, y: 0.15, z: 0.26}
+  m_Center: {x: 0, y: 0.074, z: 0.01}
 --- !u!1 &4367047035627518263
 GameObject:
   m_ObjectHideFlags: 0
@@ -1620,7 +1767,7 @@ GameObject:
   - component: {fileID: 914001779955809353}
   - component: {fileID: 3490642508086329760}
   - component: {fileID: 3897488489474759846}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: laces1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1703,7 +1850,7 @@ GameObject:
   - component: {fileID: 2739411950489364062}
   - component: {fileID: 2000752022192592082}
   - component: {fileID: 4317891599736697357}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: rivet12
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1784,7 +1931,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6629121359960935293}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: rConv
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1834,7 +1981,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3175786292853106820}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Sneakers
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1869,7 +2016,7 @@ GameObject:
   - component: {fileID: 2090399186579459207}
   - component: {fileID: 754378993335776005}
   - component: {fileID: 7005383584277644016}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: rivet3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1952,7 +2099,7 @@ GameObject:
   - component: {fileID: 5658162842022903533}
   - component: {fileID: 2128824386770787484}
   - component: {fileID: 860763281608061548}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: rivet4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2035,7 +2182,7 @@ GameObject:
   - component: {fileID: 627496093368589053}
   - component: {fileID: 6809015162005775596}
   - component: {fileID: 7805089141332446567}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: rivet9
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2118,7 +2265,7 @@ GameObject:
   - component: {fileID: 6875816021335523802}
   - component: {fileID: 6954871013891297193}
   - component: {fileID: 4733409788617669742}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: rivet21
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2201,7 +2348,7 @@ GameObject:
   - component: {fileID: 8012678511699702426}
   - component: {fileID: 4055962626199598386}
   - component: {fileID: 3892665659493588705}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: rivet13
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2284,7 +2431,7 @@ GameObject:
   - component: {fileID: 2400997367820583185}
   - component: {fileID: 1883358262592597998}
   - component: {fileID: 3355997407372959595}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: rivet2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2367,7 +2514,7 @@ GameObject:
   - component: {fileID: 8428680019297600058}
   - component: {fileID: 6796431992878537924}
   - component: {fileID: 8243524299397036605}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: rivet26
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2450,7 +2597,7 @@ GameObject:
   - component: {fileID: 7517124068339052388}
   - component: {fileID: 370199821336564046}
   - component: {fileID: 7133677563661251367}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: rivet19
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2533,7 +2680,7 @@ GameObject:
   - component: {fileID: 7192588720375572658}
   - component: {fileID: 7346079784474792564}
   - component: {fileID: 9167292545179550579}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: rivet24
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2616,7 +2763,7 @@ GameObject:
   - component: {fileID: 5146139082006704890}
   - component: {fileID: 1758815624410906468}
   - component: {fileID: 4660340391223470489}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: converse1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2666,7 +2813,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 4241587701806012333, guid: 35a4fe4d2160f594395872e562ef9fb4, type: 3}
+  - {fileID: 2100000, guid: 99835edf618225c4795ddd2484db201d, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2699,7 +2846,7 @@ GameObject:
   - component: {fileID: 7162226245701225706}
   - component: {fileID: 6937719442551760114}
   - component: {fileID: 392110782869910588}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: rivet8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2782,7 +2929,7 @@ GameObject:
   - component: {fileID: 5607917116968757803}
   - component: {fileID: 8182515550387488010}
   - component: {fileID: 3968922555269904484}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: rivet27
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2865,7 +3012,7 @@ GameObject:
   - component: {fileID: 4991439056682638557}
   - component: {fileID: 1501477193779828207}
   - component: {fileID: 4790918275353975456}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: rivet5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2948,7 +3095,7 @@ GameObject:
   - component: {fileID: 3794064159380762200}
   - component: {fileID: 4839395153362687252}
   - component: {fileID: 4092714524657848886}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: conv_tongue1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2998,7 +3145,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 4241587701806012333, guid: 35a4fe4d2160f594395872e562ef9fb4, type: 3}
+  - {fileID: 2100000, guid: 99835edf618225c4795ddd2484db201d, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -3031,7 +3178,7 @@ GameObject:
   - component: {fileID: 2379895707623407708}
   - component: {fileID: 3748731990658823447}
   - component: {fileID: 8550448507964183480}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: rivet7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3114,7 +3261,7 @@ GameObject:
   - component: {fileID: 8073621815579064627}
   - component: {fileID: 2552652608898134700}
   - component: {fileID: 4974184825588516968}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: rivet29
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3197,7 +3344,7 @@ GameObject:
   - component: {fileID: 7947800047852170226}
   - component: {fileID: 624778358793213896}
   - component: {fileID: 7973434396294056633}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: laces
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3278,7 +3425,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5250856081308866422}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: lConv
   m_TagString: Untagged
   m_Icon: {fileID: 0}
