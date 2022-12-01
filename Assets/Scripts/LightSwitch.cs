@@ -51,13 +51,15 @@ public class LightSwitch : MonoBehaviour
     {
         GameObject.Find("Switch").transform.GetChild(0).gameObject.SetActive(false);
     }
-    public void setTrue()
+    public void Set()
     {
-        triggerValue = true;
-    }
-
-    public void setFalse()
-    {
-        triggerValue = false;
+        if (triggerValue == false)
+        {
+            triggerValue = true;
+        }
+        else
+        {
+            triggerValue = false;
+        }
     }
 }
