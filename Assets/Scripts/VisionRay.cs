@@ -32,7 +32,8 @@ public class VisionRay : MonoBehaviour
     
     void OnTriggerEnter(Collider collision)
     {
-        if(globalController.GetComponent<GlobalController>().stage==1){
+        if(globalController.GetComponent<GlobalController>().stage==1 && collision.gameObject.tag=="NPC"){
+            Debug.Log("good");
             dialogController.GetComponent<DialogController>().startDialog(collision.gameObject.transform.parent.name);
         }
         

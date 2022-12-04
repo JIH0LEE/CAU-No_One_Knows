@@ -12,12 +12,12 @@ public class DialogController : MonoBehaviour
     public GameObject globalController;
     Dictionary<string,string[]> dialogs;
     Dictionary<string,bool> isDialogFinished;
-    // public Button dialogButton;
     string currentName;
     private int currentIndex;
     // Start is called before the first frame update
     void Start()
     {
+
         currentIndex = 0;
         dialogs = new Dictionary<string,string[]>();
         isDialogFinished = new Dictionary<string,bool>();
@@ -27,16 +27,18 @@ public class DialogController : MonoBehaviour
         dialogs.Add("왕재수",new string[]{"안녕하세요","감사합니다"});
         dialogs.Add("철수",new string[]{"안녕하세요","감사합니다"});
         uiButton.onClick.AddListener(UiButtonListener);
+   
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 
     public void startDialog(string name){
         currentName = name;
+        Debug.Log(name);
         npcName.text = currentName;
         string [] bodys;
         if(dialogs.TryGetValue(currentName,out bodys)){
