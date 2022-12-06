@@ -38,6 +38,6 @@ public class UiController : MonoBehaviour
     {
         GameObject intro = globalCanvas.transform.Find("Intro").gameObject;
         intro.SetActive(false);
-        globalController.GetComponent<GlobalController>().setStage(1);
+        globalController.GetComponent<GlobalController>().changeStageOne();
     }
 }

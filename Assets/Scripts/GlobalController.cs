@@ -7,6 +7,9 @@ public class GlobalController : MonoBehaviour
     Dictionary<string,bool> isDialogFinished;
     public int stage;
     public int step;
+    public bool isTalking;
+    public GameObject interactionThings;
+    public GameObject configPanel;
     // Start is called before the first frame update
     void Start()
     {
@@ -18,6 +21,8 @@ public class GlobalController : MonoBehaviour
         isDialogFinished.Add("영한",false);
         isDialogFinished.Add("왕재수",false);
         isDialogFinished.Add("철수",false);
+        isTalking = false;
+        
     }
     
     // Update is called once per frame
@@ -27,6 +32,7 @@ public class GlobalController : MonoBehaviour
     }
     private bool isDialogAllFinish(){
         bool ret = true;
+        isTalking=false;
         foreach(var pair in isDialogFinished){
             if(pair.Value==false){
                 ret = false;
@@ -40,10 +46,20 @@ public class GlobalController : MonoBehaviour
 
     public void dialogFinish(string name){
         isDialogFinished[name]=true;
-      
+
         if(isDialogAllFinish()){
-            setStage(2);
+            changeStageTwo();
+            configPanel.SetActive(true);
         }
+    }
+
+    public void changeStageOne(){
+        stage=1;
+    }
+
+    public void changeStageTwo(){
+        stage=2;
+        interactionThings.SetActive(true);
     }
     
 }
