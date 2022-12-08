@@ -32,6 +32,7 @@ public class VisionRay : MonoBehaviour
     
     void OnTriggerEnter(Collider collision)
     {
+        Debug.Log("collision enter");
         if(globalController.GetComponent<GlobalController>().stage==1 && collision.gameObject.tag=="NPC" && globalController.GetComponent<GlobalController>().isTalking == false){
             globalController.GetComponent<GlobalController>().isTalking = true;            
             dialogController.GetComponent<DialogController>().startDialog(collision.gameObject.transform.parent.name);
@@ -40,14 +41,14 @@ public class VisionRay : MonoBehaviour
         
     }
 
-    // void OnTriggerStay(Collider collision)
-    // {
+    //void OnTriggerStay(Collider collision)
+    //{
     //     if(globalController.GetComponent<GlobalController>().stage==1 && collision.gameObject.tag=="NPC" && globalController.GetComponent<GlobalController>().isTalking == false){
     //         globalController.GetComponent<GlobalController>().isTalking = true;            
     //         dialogController.GetComponent<DialogController>().startDialog(collision.gameObject.transform.parent.name);
     //     }
         
         
-    // }
+    //}
     
 }
