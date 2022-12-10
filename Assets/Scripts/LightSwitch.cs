@@ -44,12 +44,16 @@ public class LightSwitch : MonoBehaviour
             {
                 GameObject.Find("Trigger").transform.GetChild(0).gameObject.SetActive(true);
             }
+            else{
+                GameObject.Find("Trigger").transform.GetChild(0).gameObject.SetActive(false);
+            }
         }
     }
 
     public void TurnOff()
     {
         GameObject.Find("Switch").transform.GetChild(0).gameObject.SetActive(false);
+        GameObject.Find("Trigger").transform.GetChild(0).gameObject.SetActive(false);
     }
     public void Set()
     {
