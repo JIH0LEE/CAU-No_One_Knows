@@ -68,7 +68,6 @@ public class ChoiceController : MonoBehaviour
     } 
     public void showPanel(){
         panel.SetActive(true);
-        configPanel.SetActive(false);
     }
 
     public void exitPanel(){

@@ -6973,10 +6973,6 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ChoiceController_showPanel_m407AABA314D0
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_0 = __this->___panel_4;
 		NullCheck(L_0);
 		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_0, (bool)1, NULL);
-		// configPanel.SetActive(false);
-		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_1 = __this->___configPanel_5;
-		NullCheck(L_1);
-		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_1, (bool)0, NULL);
 		// }
 		return;
 	}
