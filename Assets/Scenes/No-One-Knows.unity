@@ -244,7 +244,7 @@ PrefabInstance:
     - target: {fileID: 1784546617053589712, guid: dc9782a0f770fa848837e7b58a3cf3f1,
         type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dc9782a0f770fa848837e7b58a3cf3f1, type: 3}
@@ -1070,7 +1070,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &174752972
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12630,7 +12630,7 @@ MonoBehaviour:
   m_Activated:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 174752972}
+      - m_Target: {fileID: 2104702132}
         m_TargetAssemblyTypeName: LightSwitch, Assembly-CSharp
         m_MethodName: Set
         m_Mode: 1
@@ -12732,7 +12732,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2104702127}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1a2c2ba299d785248850c5ee3ce5aadb, type: 3}
   m_Name: 
