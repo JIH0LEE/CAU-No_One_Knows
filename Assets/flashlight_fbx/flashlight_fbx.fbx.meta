@@ -1,44 +1,22 @@
 fileFormatVersion: 2
-guid: 30064147c0c0e7547a4eca1cb7318305
+guid: 48657b6b76528be44a1c5877037514f8
 ModelImporter:
   serializedVersion: 21300
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      74: -8928351471818444634
+    second: C4D Animation Take
   externalObjects:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Body
-    second: {fileID: 2100000, guid: d6081a457c6dccd4abe8d59041053eb5, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
       name: Glass
-    second: {fileID: 2100000, guid: 014d9af0f6b489a438b41d01add83b57, type: 2}
+    second: {fileID: 2100000, guid: cf0d1212567092c49ad1057fe466dc71, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: LED driver
-    second: {fileID: 2100000, guid: d39c474bbc99c6a43a375d43c073b665, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: LED's
-    second: {fileID: 2100000, guid: b37d6d9acf1eb8b4ba661319a3ce74d2, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Spring&LED reflector
-    second: {fileID: 2100000, guid: 04bed546bf0c0a14fa5c40c66704bd86, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: battery_box
-    second: {fileID: 2100000, guid: 265740d955296944799dca5b01973f3e, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: battery_color
-    second: {fileID: 2100000, guid: e5a9d4c84d97bee4bb4f93a74dafff3a, type: 2}
+      name: flashlight
+    second: {fileID: 2100000, guid: 95dc1e317b7b11947b040e7d9c6694af, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
