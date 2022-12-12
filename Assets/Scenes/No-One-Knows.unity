@@ -268,7 +268,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rayTransform: {fileID: 2016911858}
-  rayDistance: 50
+  rayDistance: -50
 --- !u!114 &15867014
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6217,7 +6217,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rayTransform: {fileID: 2016911858}
-  rayDistance: 50
+  rayDistance: -50
 --- !u!1 &1097597213
 GameObject:
   m_ObjectHideFlags: 0
@@ -8186,7 +8186,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1369181929}
   m_LocalRotation: {x: 0.5, y: -0.5, z: -0.5, w: -0.5}
-  m_LocalPosition: {x: 0, y: 0.1642, z: 0}
+  m_LocalPosition: {x: -0, y: 0.1644, z: 0}
   m_LocalScale: {x: 1.5000002, y: 1.4999998, z: 1.5000001}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -12083,7 +12083,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &2064657557
 Transform:
   m_ObjectHideFlags: 0
